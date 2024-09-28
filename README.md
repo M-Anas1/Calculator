@@ -1,4 +1,4 @@
-# This is library management System
+# This is Calculator with Full Basic Functionality
 
 - **Detail**
 
